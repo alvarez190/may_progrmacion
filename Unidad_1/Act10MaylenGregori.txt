@@ -1,0 +1,15 @@
+Algoritmo Numeros_introducidos
+
+Variables: 
+    int numeros;
+    
+Inicio:
+for
+
+Escribir: "Escriba un numero"
+Leer: numero
+
+if numero ==-1
+Fin si
+
+Fin 

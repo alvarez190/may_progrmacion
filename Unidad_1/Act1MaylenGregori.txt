@@ -1,0 +1,16 @@
+Algoritmo Descuento
+
+Variables:
+   
+   precioDescuento  double;
+   precioDeportivas double;
+
+Inicio:
+
+Leer -> precioDeportivas es 85
+
+precioDescuento = precioDeportivas *15/100
+
+Escribir -> "resultado del descuento " + precioDescuento 
+
+Fin

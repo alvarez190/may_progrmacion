@@ -1,0 +1,44 @@
+int size = 27;
+//varaible de tipo nuemro entero determinado como 27
+
+String name = "Fido";
+//variable de tipo String de nombre Fido
+
+Dog myDog = new Dog(name,size);
+//determinacion de la variable myDog como clase Dog
+
+x = size - 5;
+//determinacion de la variable x resultado de resta de size
+
+if (x>15) myDog.bark(8);
+//metodo que indica la accion comparacion de las variables si es posivo llamar a uan funcion de la clase myDog 
+
+while (x>3){
+    myDog.play();
+}
+//bucle de introduccion de numeros enteros menores que 3
+
+int[] numList =´{2,4,6,8};
+//inicicion de un arrye de cuatro numeros 
+
+System.out.print("Hello");
+//imrimir por pantalla el saludo Hola
+
+System.out.print("Dog: " + name);
+//imprimir por pantalla el nombre del perro
+
+Sring num = "8";
+//asignacion del numero 8 a la varaible de tipo String
+
+int z = Integer.parseInt(num);
+//determinacion de una funcion de transformacion e la varaible num a numeros enteros
+
+try {
+    readTheFile("myFile.txt");
+}
+//abrir un bloque de introducciones 
+
+catch (FileNotFoundException ex){
+    System.out.print("File not fund.");
+}
+//determinacion de la funcion catch en caso de error haciendo que se imprima en pantalla que el archivo no ha sido encontrado

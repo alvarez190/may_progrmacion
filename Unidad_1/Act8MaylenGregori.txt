@@ -1,0 +1,27 @@
+Algoritmo Minutos
+
+Variables: 
+    int segundos;
+    int minutos;
+    int horas;
+    int dias;
+
+Inicio:
+Escribir: "Diga los segundos"
+Leer: segundos
+
+minutos = segundos/60
+
+horas = segundos/3600
+
+dias = segundos/86400
+
+Escribir: "segundos ="+ segundos
+
+Escribir: "minutos ="+ sgundos 
+
+Escribir: "horas ="+ sgundos 
+
+Escribir: "dias ="+ sgundos 
+
+Fin 

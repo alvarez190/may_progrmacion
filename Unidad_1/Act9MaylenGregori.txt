@@ -1,0 +1,15 @@
+Algoritmo grados_Celcius_y_Fharenheit
+
+Variables: 
+  double grados_Celcius;
+  double grados_Fahrenheit;
+
+Inicio:
+Escribir: "Diga los grados Celcius"
+Leer: grados_Celcius
+
+grados_Fahrenheit =(9/5)*grados_Celcius+32
+
+Escribir: grados_Celcius + "C es igual a" + grados_Fahrenheit + "F"
+
+Fin 

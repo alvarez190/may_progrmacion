@@ -1,0 +1,22 @@
+Algoritmo Números
+
+Variables: 
+ int  numeroA;
+ int  numeroB;
+ int  auxiliar;
+   
+Inicio:
+Escribir: "Escribe un numero A"
+Leer: numeroA
+
+Escribir: "Escribir un numero B"
+Leer: numeroB
+
+Escribir: "A ="+ numeroA + "B ="+ numeroB 
+
+auxiliar = numeroA
+numeroA = numeroB 
+
+numeroB = auxiliar
+Escribir: "A ="+ numeroA + "B ="+ numeroB 
+Fin 

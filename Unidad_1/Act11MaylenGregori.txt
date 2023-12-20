@@ -1,0 +1,15 @@
+Algoritmo Numeros_introducidos_mayor
+
+Variables: 
+    int numero1;
+   
+Inicio:
+
+for
+Escribir: "Escriba un numero"
+Leer: numero1
+
+if numero ==-1
+imprimo el mayor
+
+Fin 

@@ -1,0 +1,24 @@
+Algoritmo calulo_de_area_y_perimetro_rectangulo
+
+Variables: 
+    double altura;
+    double ancho;
+    bouble area;
+    double perimetro;
+
+Inicio:
+Escribir: "Diga la altura del rectángulo"
+Leer: altura
+
+Escribir: "Diga el ancho del rectángulo"
+Leer: ancho
+
+area = altura*ancho
+Ecribir: altura 
+
+perimetro = (altura*2) + (ancho*2)
+Ecribir: perimetro
+
+Escribir: "area =" + area + "perimetro=" + perimetro
+
+Fin 

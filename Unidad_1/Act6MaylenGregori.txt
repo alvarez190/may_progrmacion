@@ -1,0 +1,18 @@
+Algoritmo edad_usuarios
+
+Variables: 
+ int edad;
+ 
+Inicio:
+Escribir: "Diga la edad"
+Leer: edad
+
+Si edad<18
+
+Escribir: "Menor de Edad"
+
+Si edad>18
+
+Escribir: "Mayor de Edad"
+
+Fin 

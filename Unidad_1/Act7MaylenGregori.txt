@@ -1,0 +1,30 @@
+Algoritmo suma_o_multipicacion
+
+Variables: 
+    double numeroA;
+    double numeroB;
+    double numeroC;
+    double suma; 
+    double multiplicacion;
+
+Inicio:
+Escribir: "Diga un numeroA"
+Leer: numeroA
+
+Escribir: "Diga un numeroB"
+Leer: numeroB
+
+Escribir: "Diga un numeroC"
+Leer: numeroC
+
+Si numeroA>0 
+suma = numeroA + numeroB
+
+Escribir: "suma ="+ suma
+
+Si numeroA<0 
+multiplicacion = numeroA*numeroB
+
+Escribir: "multiplicacion ="+ multiplicacion 
+
+Fin 

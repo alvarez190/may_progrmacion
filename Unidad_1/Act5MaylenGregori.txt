@@ -1,0 +1,24 @@
+Algoritmo calulo_de_area_y_volumen_cilindro
+
+Variables: 
+    double volumen;
+    double area;
+    double diametro;
+    double altura;
+
+Inicio:
+Escribir: "Diga la altura del cilindro"
+Leer: altura
+
+Escribir: "Diga el diametro del cilindro"
+Leer: diametro
+
+radio = diamtero/2
+
+area = 2PI*radio*2+2PI*radio*h
+volumen = PI*radio*2h
+
+Ecribir: "area =" + area
+Ecribir: "perimetro =" + perimetro
+
+Fin 
